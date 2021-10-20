@@ -5,6 +5,7 @@
 # This program calculates the average of 10 random numbers
 
 import random
+
 import constants
 
 
